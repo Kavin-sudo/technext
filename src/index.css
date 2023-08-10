@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+/* font config */
+@font-face {
+  font-family: 'font-regular';
+  src: url(./fonts/Barlow-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'font-medium';
+  src: url(./fonts/Barlow-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'font-semibold';
+  src: url(./fonts/Barlow-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: 'font-bold';
+  src: url(./fonts/Barlow-Bold.ttf);
+}
+
+@font-face {
+  font-family: 'font-extrabold';
+  src: url(./fonts/Barlow-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: 'font-macapp';
+  src: url(./fonts/CircularStd-Bold.ttf);
+}
+
+
+:root {
+  --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+  --gradient-btn: linear-gradient(131deg, #FB7708 0%, #FF1684 49%, #B304F4 100%);
+  --gradient-btn-hover: linear-gradient(131deg, #FB7708 0%, #FF1684 80%, #B304F4 100%);
+
+  --color-bg: #05011c;
+  --text-color-hover: #FB7708;
+  --color-footer: #031B34;
+  --color-blog: #042c54;
+  --color-text: #81AFDD;
+  --color-subtext: #FF8A71;
+  --text-color: linear-gradient(270deg, #F9D323 0%, #E05611 51%, #C92C00 100%);
+
+}

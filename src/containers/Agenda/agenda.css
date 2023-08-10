@@ -1,0 +1,134 @@
+.agenda--list {
+    width: 40%;
+    margin: auto;
+    margin-top: 60px;
+    position: relative;
+}
+
+.agenda-set_heder {
+    position: relative;
+}
+
+.agenda-sec {
+    background: url(../../assets/PNG/rightpattern@2x.png)no-repeat;
+    background-size: 25%;
+    background-position: bottom right;
+    position: relative;
+    overflow: hidden;
+}
+
+.agenda-sec::before {
+    content: '';
+    background: url(../../assets/PNG/leftpattern@2x.png) no-repeat;
+    background-size: 100%;
+    background-position: top left;
+    width: 35%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.agenda-set_heder p {
+    text-align: center;
+    font: 24px/34px 'font-regular';
+    letter-spacing: -0.571429px;
+    color: #fff;
+}
+
+.com-title {
+    text-align: center;
+}
+
+.agenda--item {
+    margin-bottom: 27px;
+    padding-bottom: 34px;
+}
+
+.agenda--list .agenda--item:not(:last-child) {
+    border-bottom: 1px solid #ffffff0d;
+}
+
+.agenda--time-widget {
+    display: inline-block;
+    font: 18px/22px 'font-bold';
+    letter-spacing: -0.428571px;
+    font-weight: 700;
+    background-color: #B451FF;
+    padding: 8px 10px;
+    color: #fff;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.agenda--item h3 {
+    font: 32px/40px 'font-medium';
+    letter-spacing: -0.761905px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.agenda--item p {
+    font: 20px/34px 'font-medium';
+    letter-spacing: -0.47619px;
+    color: #fff;
+    opacity: .6;
+}
+
+@media screen and (max-width: 1440px) {
+    .agenda--list {
+        width: 53%;
+        margin: auto;
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 1060px) {
+    .agenda--list {
+        width: 78%;
+        margin: auto;
+        margin-top: 60px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .agenda--list {
+        width: 100%;
+        margin: auto;
+        margin-top: 60px;
+    }
+
+    .agenda--item h3 {
+        font: 24px/46px 'font-medium';
+        letter-spacing: -0.571429px;
+        color: #fff;
+        margin-bottom: 5px;
+    }
+
+    .agenda--item p {
+        font: 18px/34px 'font-medium';
+        letter-spacing: -0.428571px;
+        color: #fff;
+
+    }
+}
+
+@media screen and (max-width: 1396px) {
+    .agenda-sec::before {
+
+        width: 52%;
+
+    }
+}
+
+@media screen and (max-width: 725px) {
+    .agenda--list {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .agenda-sec::before {
+        width: 107%;
+    }
+}

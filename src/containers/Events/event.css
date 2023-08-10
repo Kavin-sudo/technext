@@ -1,0 +1,58 @@
+.eventtrack h1 {
+    text-align: center;
+}
+
+.eventtrack p {
+    text-align: center;
+    font: 24px/34px 'font-regular';
+    letter-spacing: -0.571429px;
+    color: #fff;
+}
+
+.event-tracks {
+    margin: auto;
+    margin-top: 53px;
+    max-width: 112rem;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(430px, 1fr));
+    grid-gap: 25px;
+}
+
+
+
+@media screen and (max-width: 1440px) {
+    .event-tracks {
+        grid-template-columns: repeat(auto-fit, minmax(394px, 1fr));
+    }
+}
+
+
+@media screen and (max-width: 550px) {
+    .event-tracks {
+
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+    }
+
+    .com-title {
+        font: 30px/84px 'font-semibold' !important;
+        letter-spacing: -0.714286px !important;
+    }
+
+    .eventtrack p {
+
+        font: 18px/32px 'font-regular';
+        letter-spacing: -0.528571px;
+
+    }
+
+    .event-tracks--card-items-desc p {
+        font: 18px/28px 'font-regular';
+        letter-spacing: -0.428571px;
+        color: #fff;
+    }
+
+}
+
+@media screen and (max-width: 500px) {}
