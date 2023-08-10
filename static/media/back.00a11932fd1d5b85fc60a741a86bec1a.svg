@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Website Assets/SVG/back</title>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Website" transform="translate(-29, -4405)" fill-rule="nonzero">
+            <g id="Website-Assets/SVG/back" transform="translate(54, 4430) scale(-1, 1) translate(-54, -4430)translate(30, 4406)">
+                <polygon id="Path" fill="#FFFFFF" points="20.8020041 14 19.9005757 14.8840749 19.9039869 14.8874205 19.0068225 15.7673135 27.3976974 23.9966544 19 32.2326865 20.8037098 34 20.8062682 33.9974908 20.807121 33.9991636 30.0158482 24.9668786 30.0226707 24.9735698 31 24.0142188 30.9948831 24.008364 31 24.0025092 30.5633573 23.5742723 30.5684742 23.5700903 20.8105323 14 20.8062682 14.004182"></polygon>
+                <path d="M24,0 C10.745,0 0,10.745 0,24 C0,37.255 10.745,48 24,48 C37.254,48 48,37.255 48,24 C48,10.745 37.254,0 24,0 Z" id="Path" stroke="#FFFFFF" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

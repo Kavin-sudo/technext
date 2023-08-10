@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/technext/static/css/main.00e1bbf2.css",
+    "main.js": "/technext/static/js/main.87f03503.js",
+    "static/media/meta image@2x.png": "/technext/static/media/meta image@2x.04b653aafa432a02c6bf.png",
+    "static/media/hero image@2x.png": "/technext/static/media/hero image@2x.c5f483ad1b4a11a8923e.png",
+    "static/media/speaker 3@2x.png": "/technext/static/media/speaker 3@2x.a53058095c88e979ed72.png",
+    "static/media/speaker 4@2x.png": "/technext/static/media/speaker 4@2x.272c9daee093a0e18d56.png",
+    "static/media/speaker 1@2x.png": "/technext/static/media/speaker 1@2x.87900f8f0ee4197e0090.png",
+    "static/media/map@2x.png": "/technext/static/media/map@2x.c7cb0ca0c9dd7ffb78c6.png",
+    "static/media/bg@2x.png": "/technext/static/media/bg@2x.ad3f3e0dcfc7a70dd007.png",
+    "static/media/speaker 2@2x.png": "/technext/static/media/speaker 2@2x.f1d967d5210b3067e87d.png",
+    "static/media/leftpattern@2x.png": "/technext/static/media/leftpattern@2x.9835b9dee495f0804d88.png",
+    "static/media/rightpattern@2x.png": "/technext/static/media/rightpattern@2x.ed338edc6d4e54c7d94f.png",
+    "static/media/Barlow-ExtraBold.ttf": "/technext/static/media/Barlow-ExtraBold.777e300ed64d3d47cc85.ttf",
+    "static/media/Barlow-SemiBold.ttf": "/technext/static/media/Barlow-SemiBold.8247eaeb0799c0acafc6.ttf",
+    "static/media/Barlow-Bold.ttf": "/technext/static/media/Barlow-Bold.0cb1ab864072bf9e0991.ttf",
+    "static/media/Barlow-Regular.ttf": "/technext/static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
+    "static/media/Barlow-Medium.ttf": "/technext/static/media/Barlow-Medium.d4afdc134fc10b739bab.ttf",
+    "static/media/CircularStd-Bold.ttf": "/technext/static/media/CircularStd-Bold.544334209f41ff0b1ebb.ttf",
+    "static/media/top left pattern@2x.png": "/technext/static/media/top left pattern@2x.88484c0e8920a726ceb1.png",
+    "static/media/cii logo@2x.png": "/technext/static/media/cii logo@2x.7660ae7e84684caefc97.png",
+    "static/media/technext-logo@2x.png": "/technext/static/media/technext-logo@2x.e5c338c5563fda10499b.png",
+    "static/media/ai.svg": "/technext/static/media/ai.30cedaae93f1b08e162283014b7c45c4.svg",
+    "static/media/metaverse.svg": "/technext/static/media/metaverse.f40c5f6aa4467d8ff89a61c70ca21681.svg",
+    "static/media/prestigious.svg": "/technext/static/media/prestigious.af0e2a6ee79a01f5bf37a4a8df656067.svg",
+    "static/media/cybersecurity.svg": "/technext/static/media/cybersecurity.db8bb70d07da123bf4beffd26b7bdca3.svg",
+    "static/media/call.svg": "/technext/static/media/call.b0920a985c7b366bacfaa0d5f1a37eff.svg",
+    "static/media/pin.svg": "/technext/static/media/pin.a90d0ceec9e1802c9857f1bf56a1bc4f.svg",
+    "static/media/mail.svg": "/technext/static/media/mail.8c75b0bfb215db4140938c9aabe67aab.svg",
+    "static/media/nft.svg": "/technext/static/media/nft.8e343d0a41985d7b054bdfde08d5a9ea.svg",
+    "static/media/back.svg": "/technext/static/media/back.00a11932fd1d5b85fc60a741a86bec1a.svg",
+    "static/media/next.svg": "/technext/static/media/next.b58a27e8b2ec7efd3b482c6320340741.svg",
+    "static/media/blockchain.svg": "/technext/static/media/blockchain.fe497e2c2e1187445e0cdc5e8fa4138b.svg",
+    "index.html": "/technext/index.html",
+    "main.00e1bbf2.css.map": "/technext/static/css/main.00e1bbf2.css.map",
+    "main.87f03503.js.map": "/technext/static/js/main.87f03503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e1bbf2.css",
+    "static/js/main.87f03503.js"
+  ]
+}
